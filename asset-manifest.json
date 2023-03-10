@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MyContact-React/static/css/main.31d6cfe0.css",
+    "main.js": "/MyContact-React/static/js/main.e8084810.js",
+    "static/js/787.a9a1a97d.chunk.js": "/MyContact-React/static/js/787.a9a1a97d.chunk.js",
+    "index.html": "/MyContact-React/index.html",
+    "main.e8084810.js.map": "/MyContact-React/static/js/main.e8084810.js.map",
+    "787.a9a1a97d.chunk.js.map": "/MyContact-React/static/js/787.a9a1a97d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.e8084810.js"
+  ]
+}
